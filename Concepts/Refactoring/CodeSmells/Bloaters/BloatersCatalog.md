@@ -4,7 +4,7 @@ Bloaters are code, methods, and classes that have increased to such gargantuan p
 ## 1. Long Method
 A method contain too many lines of code. Generally, any method longer than 10 lines of code should make you start questioning.
 
-## 2. Long Class
+## 2. Large Class
 A class contain many fields, methods, or lines of code.
 
 ## 3. Long Parameter List

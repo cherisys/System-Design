@@ -1,4 +1,4 @@
-# Long Method?
+# Long Method
 
 ## Signs & Symptoms
 A method contain too many lines of code. Generally, any method longer than 10 lines of code should make you start questioning.

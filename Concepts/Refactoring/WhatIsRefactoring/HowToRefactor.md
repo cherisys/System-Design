@@ -14,5 +14,6 @@ Refactoring should be done as a series of small changes, each of which makes the
 
 > ## All existing tests must pass
 >* There are two cases when tests can breakdown after refactoring:
+>
 >   **1. You made an error during refactoring:** go ahead and fix the error.
 >   **2. Your tests were too low-level:** for example, you were testing private methods of classes. You can either refactor the tests themselves or write an entirely new set of higher-level tests. A great way to avoid this kind of situation is to write **BDD-Style Tests (Behavioral Driven Development Style Tests)**.

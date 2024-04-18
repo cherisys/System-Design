@@ -26,7 +26,7 @@ If you've to make a change in one place in your code, you've to make many change
 Something pointless and unneeded whose absence would make code cleaner, efficient and easier to understand. 
 > 1. Comments
 > 2. Duplicate Code
-> 3. Data Classes
+> 3. Data Class
 > 4. Dead Code
 > 5. Lazy Class
 > 6. Speculative Generality

@@ -4,7 +4,7 @@ Code smells are indicators of problems that can be addressed during refactoring.
 ## 1. Bloaters
 Bloaters are code, methods, and classes that have increased to such gargantuan proportions that they are hard to work with. 
 > 1. Long Method
-> 2. Long Class
+> 2. Large Class
 > 3. Long Parameter List
 > 4. Primitive Obsession
 > 5. Data Clumps
